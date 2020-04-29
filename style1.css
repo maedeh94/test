@@ -1,0 +1,19 @@
+
+html{
+    font-family: vazir;
+}
+
+
+.header{
+    
+    
+    width: 50%;
+     background:   url(./img.jpg) 0 40%/cover no-repeat border-box fixed; 
+     color:palegreen;
+     filter: blur(1px);
+     /* filter: brightness(50%) contrast(100%); */
+     filter: grayscale(30%);
+
+    
+    
+    height: 400px;
